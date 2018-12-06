@@ -1,0 +1,93 @@
+.wall{
+	background-color: #22B573;
+	height: 648px;
+	font-family: 'Myriad Pro';
+	text-transform: uppercase;
+	padding-top: 52px;
+}
+.conteiner{
+	display: block;
+	width: 1286px;
+	margin: 0 auto;
+}
+.conteiner2{
+	display: block;
+	width: 1158px;
+	height: 152px;
+	margin: 38px auto;
+}
+.a { 
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 48px;
+}
+.float-right{
+	float: right;
+}
+.float-left{
+	float: left;
+}
+.clear{
+	clear: right;
+}
+.arrow{
+	width: 201px;
+	padding-left: 34px;
+	
+}
+.li{
+	display: inline-block;
+	padding: 0 21px;
+
+}
+.box1{
+	width: 617px;
+	height: 356px;
+	background-color: #fcee21;
+	margin-left: 72px;
+}
+.box2{
+	width: 523px;
+	height: 356px;
+	background-color: #fcee21; 
+	margin-right: 56px;
+}
+.adv1{
+	width: 152px;
+	padding-top: 35px;
+	padding-right: 26px; 
+	padding-bottom: 66px;
+	padding-left: 26px;
+}
+.adv2{
+	width: 152px;
+	padding-top: 35px;
+	padding-left: 26px;
+	padding-right: 20px;
+	padding-bottom: 14px; 
+}
+.font-size{
+	font-size: 14px;
+	font-family: 'Myriad Pro';
+}
+.paragraph1{
+	margin-left: 26px;
+	margin-top: 20px;
+}
+.paragraph2{
+	margin-left: 26px;
+	padding-right: 34px;
+	padding-top: 22px;
+}
+.paragraph3{
+	margin-top: 23px; 
+	color: #006837;
+	margin-right: 30px; 
+	margin-left: 26px;
+}
+.paragraph4{
+	margin-top: 20px;
+	margin-right: 30px;
+	margin-left: 26px;
+	color: #006837;
+}
